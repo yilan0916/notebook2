@@ -1,0 +1,86 @@
+# markdown
+
+## 二级标题
+
+### 三级标题
+
+
+
+## 字体
+
+**Hello, World!**
+
+*Hello, World!*
+
+***Hello, World!**
+
+~~Hello, World!~~
+
+
+
+## 引用
+
+> 选择狂神说Java，走向人生巅峰
+
+
+
+## 分割线
+
+---
+
+
+
+***
+
+
+
+## 图片
+
+![截图](C:\Users\kang\Desktop\I~RMW`~WV`(PQQG~8~)8_V3.png)
+
+![截图](https://kuangstudy.oss-cn-beijing.aliyuncs.com/bbs/2021/06/02/kuangstudya4977c6d-9c3c-4e9e-baf9-d98c07c256a6.png)
+
+
+
+## 超链接
+
+[点击跳转到链接地址](https://github.com/yilan0916)
+
+
+
+## 列表
+
+1. A
+2. B
+3. C
+
+
+
+- A
+- B
+- C
+
+## 表格
+
+右键插入表格
+
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+
+
+| 名字 | 性别 | 生日     |
+| ---- | ---- | -------- |
+| 张三 | 男   | 1997.1.1 |
+
+
+
+## 代码
+
+```java
+public 
+```
+
